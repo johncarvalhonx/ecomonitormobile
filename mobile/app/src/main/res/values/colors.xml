@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color> <!-- Teal/Cyan Accent -->
+    <color name="colorSecondary">#455A64</color> <!-- Desaturated Blue/Gray -->
+    <color name="surface_color">#121212</color> <!-- Near-black surface -->
+    <color name="surface_color_2">#212121</color> <!-- Slightly lighter surface for cards -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+    <color name="neon_blue">#00E5FF</color>
+</resources>
