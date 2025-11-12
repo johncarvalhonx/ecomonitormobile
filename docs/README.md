@@ -7,6 +7,8 @@ EcoMonitor é um projeto simples de monitoramento ambiental formado por:
 
 O objetivo é mostrar, de forma rápida e clara, informações sobre clima, qualidade do ar e riscos de chuva/alagamento usando tecnologias acessíveis e sem necessidade de chave de API.
 
+[![Watch the demo](https://img.youtube.com/vi/fdQrvyRnSWs/hqdefault.jpg)](https://youtu.be/fdQrvyRnSWs)
+
 ---
 
 ## 1. Funcionalidades
